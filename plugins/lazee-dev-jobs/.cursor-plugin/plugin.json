@@ -1,0 +1,14 @@
+{
+  "name": "lazee-dev-jobs",
+  "displayName": "lazee.dev Jobs",
+  "version": "1.0.0",
+  "description": "Search open tech jobs from company career pages by role, level, country, workplace, company and pay, with links to apply.",
+  "author": {
+    "name": "lazee.dev",
+    "email": "support@lazee.dev"
+  },
+  "homepage": "https://lazee.dev/mcp-server",
+  "license": "MIT",
+  "keywords": ["jobs", "job search", "careers", "hiring", "tech jobs", "remote jobs", "mcp"],
+  "logo": "assets/logo.png"
+}
